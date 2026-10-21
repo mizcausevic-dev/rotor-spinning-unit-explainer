@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/rotor-spinning-unit-explainer/
 
+Repository: https://github.com/mizcausevic-dev/rotor-spinning-unit-explainer
+
 ## What this is
 
 An interactive anatomy plate for Rotor-Spinning Unit. Play, scrub, or jump the five stages. The same frame always draws the same picture.
